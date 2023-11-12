@@ -1,0 +1,65 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    margin: auto;
+    align-items: center;
+}
+
+table, td, th {
+    border-bottom: 1px solid gray; 
+    border-collapse: collapse;
+    padding: 20px, 20px;
+    text-align: center;
+}
+
+thead{
+    background-color:dodgerblue;
+    height: 60px;
+
+}
+
+td, thead tr th {
+    padding: 10px 16px;
+    
+}
+
+table {
+    width: 100%;
+    font-size: 16px;
+
+}
+
+i.fa-solid {
+color: green;
+font-size: 20px;
+}
+
+i.fa-regular {
+    color: red;
+    font-size: 20px;
+    }
+
+    .exc{
+        background-color: green;
+    }
+
+    .fail{
+        background-color: red;
+    }
+
+
+    .outline{
+        background-color: dodgerblue;
+        color: white;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 6px 0px;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        margin-bottom: 50px;
+        margin-top: 50px;
+        border-radius: 8px;
+    }
