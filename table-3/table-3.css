@@ -1,0 +1,48 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 70px 90px;
+}
+
+
+table, td, th {
+    border-top: 1px solid #ddd; 
+    border-collapse: collapse;
+    padding: 20px, 20px;
+    margin: auto;
+}
+
+thead{
+    background-color: rgb(0, 119, 255);
+    height: 60px;
+
+}
+
+td, thead tr th {
+    padding: 10px 16px;
+    
+}
+
+table {
+    width: 90%;
+    font-size: 16px;
+
+}
+
+th{
+    background-color: dodgerblue;
+    color: antiquewhite;
+    
+}
+
+.outline{
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 6px 0px;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
